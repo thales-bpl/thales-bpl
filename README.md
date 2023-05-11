@@ -1,4 +1,4 @@
-### Hi there, I'm Thales 👋
+### Hi there, I'm Thales Lima 👋
 
 
 ##### 💻: Full Stack Developer
