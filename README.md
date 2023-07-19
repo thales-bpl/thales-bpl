@@ -5,7 +5,7 @@
 ##### :green_book: Trybe Beyonder
 ##### :satellite: Science Enthusiast
 ##### :v: Pronouns:  He / him / his
-##### 📖 Studying Machile Learning and Game Develeopment 
+##### 📖 Studying Data Analysis and Machine Learning 
 
 #
 
